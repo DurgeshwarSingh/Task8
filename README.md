@@ -32,7 +32,7 @@ This hides your real identity (IP address) and keeps your data safe from others.
 
 Let's do some practical....
 
-1) First go on network speed checker and check your speed mine is 64kbps
+1) First go on network speed checker and check your speed mine is 64Mbps
 
 2) Then check your location by whatismyipaddress.com and you see that real location is show
 
